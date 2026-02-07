@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.advance-card-bg-container {
+    background-image: url(" https://d2clawv67efefq.cloudfront.net/ccbp-static-website/arvrbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.advance-card-contaier {
+    background-color: #ffffff;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    height: 10px;
+
+}
+
+.adavance-card-container-heading {
+    color: #5752ab;
+    font-family: "Bree Serif";
+    font-size: 20px;
+    padding: 10px;
+
+}
+
+.adavance-card-container-paragraph {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 15px;
+    padding: 10px;
+}
+
+
+.adavance-card-container-button1 {
+    border-color: #d7dfe9;
+    background-color: #ffffff;
+    color: #171f46;
+    font-family: "Roboto";
+    border-radius: 10px;
+    width: 100px;
+    text-align: center;
+    font-size: 15px;
+    margin-left: 50px;
+
+
+
+}
+
+.adavance-card-container-button2 {
+    border-color: #d7dfe9;
+    background-color: #5752ab;
+    color: #ffffff;
+    font-family: "Roboto";
+    border-radius: 10px;
+    width: 100px;
+    text-align: center;
+    font-size: 15px;
+    margin-right: 50px;
+
+}
